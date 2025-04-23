@@ -32,10 +32,14 @@ Step 6: Get Files into Arduino Folder<br />
 - Option 2: Directly Download Files and Paste into Arduino Folder<br /> 
   - First scroll up and click on the bright green button that says "<> Code"<br /> 
   - Click on "Download ZIP"<br />
-  - Go to your downloads folder, extract the zip file, select the files inside, and press ctrl + c
-  - Navigate to Documents > Arduino<br />
-  - Paste the files into the folder
+  - Go to your downloads folder, extract the zip file, select the files inside, and press ctrl + c <br />
+  - Navigate to Documents > Arduino <br />
+  - Paste the files into the folder <br />
 
-Step 7: Open Files in Arduino IDE from the side bar on the left
+Step 7: Install ESP32 Drivers 
+- Download the driver installer from the link. It should be called "CP210x Windows Drivers" : https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+- Extract the zip file and run the .exe file inside
+
+Step 8: Open Files in Arduino IDE from the side bar on the left
 - Select the file icon on the left side bar, below the blue circle checkmark button
 - Then click on the RoboRhythms Folder and open the files
