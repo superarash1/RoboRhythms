@@ -27,7 +27,7 @@ Step 6: Get Files into Arduino Folder<br />
   - Install Git if you haven't already: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br /> 
   - Open your File Explorer and navigate to Documents > Arduino<br /> 
   - Right click on the window and select "Open in Terminal" <br /> 
-  - Paste the following into the terminal and hit enter: git clone https://github.com/superarash1/RoboRhythms.git <br /> 
+  - Paste the following into the terminal and hit enter: "git clone https://github.com/superarash1/RoboRhythms.git" <br /> 
 
 - Option 2: Directly Download Files and Paste into Arduino Folder<br /> 
   - First scroll up and click on the bright green button that says "<> Code"<br /> 
