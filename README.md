@@ -39,8 +39,3 @@ Step 6: Get Files into Arduino Folder<br />
 Step 7: Open Files in Arduino IDE from the side bar on the left
 - Select the file icon on the left side bar, below the blue circle checkmark button
 - Then click on the RoboRhythms Folder and open the files
-  
-  
-
-# Video Tutorial I found online if you're struggling
-https://www.youtube.com/watch?v=CD8VJl27n94&t=71s 
