@@ -37,7 +37,7 @@ Step 6: Get Files into Arduino Folder<br />
   - Paste the files into the folder <br />
 
 Step 7: Install ESP32 Drivers 
-- Download the driver installer from the link. It should be called "CP210x Windows Drivers" : https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+- Download the driver installer from the link. It should be called "CP210x Universal Windows Drivers" : https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 - Extract the zip file. Then find silabser.inf, right click it, and click install
 
 Step 8: Open Files in Arduino IDE from the side bar on the left
